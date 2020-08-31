@@ -5,13 +5,13 @@
 #define WIFI_AP "GST_IGOR"
 #define WIFI_PASSWORD "13579ig*"
 
-#define TOKEN "rKKF9megL5c9Qja7WV5N"
+#define TOKEN "D44qJwEilqRWwWlw4MUl"
 
 // DHT
 #define DHTPIN 2
 #define DHTTYPE DHT22
 
-char thingsboardServer[] = "192.168.0.103";
+char thingsboardServer[] = "187.19.206.57";
 
 WiFiClient wifiClient;
 
